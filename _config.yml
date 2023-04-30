@@ -12,7 +12,7 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "plum" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "mint" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
@@ -107,7 +107,7 @@ author:
   name             : "Mr.Fedora"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "잡동사니들이 가득한 곳"
-  location         : "Somewhere"
+  location         : "대충 한국 어딘가"
   email            :
   links:
     - label: "Email"
