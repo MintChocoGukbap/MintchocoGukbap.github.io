@@ -1,3 +1,7 @@
+layout: single
+title: "AWS Foudational 자격증 공부"
+
+
 ### AWS Foudational
 
 
